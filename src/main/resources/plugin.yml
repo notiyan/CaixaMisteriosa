@@ -1,0 +1,8 @@
+name: CaixaMisteriosa
+version: 1.0
+main: dev.zywn.Main
+api-version: 1.16
+commands:
+  caixa:
+    description: Comandos de administração de caixas
+    usage: /caixa <givecaixa/giveall> <tipo> <jogador/quantia>
