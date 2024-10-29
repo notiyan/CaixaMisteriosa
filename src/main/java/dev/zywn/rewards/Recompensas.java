@@ -18,7 +18,7 @@ public class Recompensas {
     private static final List<ItemStack> recompensasAvancadas = new ArrayList<>();
 
     static {
-        recompensasBasicas.add(criarItem(Material.IRON_INGOT, "Barra de Ferro"));
+        recompensasBasicas.add(criarItem(Material.EMERALD, "Esmeralda"));
         recompensasBasicas.add(criarItem(Material.COOKED_BEEF, "Carne Cozida"));
         recompensasBasicas.add(criarItem(Material.STONE, "Pedra"));
         recompensasBasicas.add(criarItem(Material.WOODEN_SWORD, "Espada de Madeira"));
